@@ -1,5 +1,5 @@
 <application>
-  <component name="BuiltInServerOptions" builtInServerPort="61813" />
+  <component name="BuiltInServerOptions" builtInServerPort="55976" />
   <component name="FileEditorProviderManager">{}</component>
   <component name="NotRoamableUiSettings">
     <option name="ideAAType" value="Greyscale" />
@@ -12,21 +12,21 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "GeneralSettings.initiallyConfigured": "true",
-    "InstalledPluginsSearchHistory": "pretti\nkeymap\nkeym\nke\nstylelint",
-    "MarketplacePluginsSearchHistory": "stylelint\ns\npre\nJavaScript Intenti\nJavaScript Intentio",
-    "PluginConfigurable.selectionTab": "1",
+    "InstalledPluginsSearchHistory": "qodo\nqod\nqo\nq\npretti",
+    "MarketplacePluginsSearchHistory": "/suggested\nqodo\nstylelint\ns\npre",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
     "RunOnceActivity.llm.installer.activate.toolwindow": "true",
     "RunOnceActivity.webstorm.auto-popup.quick-doc.initialized": "true",
     "evlsprt3.242": "7",
     "experimental.ui.on.first.startup": "true",
-    "experimental.ui.switch": "true",
     "experimental.ui.used.version": "242.23726.96",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.new.terminal.promotion.242": "1",
     "input.method.disabler.muted": "true",
     "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "_@user_Dark",
     "registry.to.advanced.settings.migration.build": "WS-242.23726.96",
     "rider.trace.scenarios": "",
